@@ -1,3 +1,6 @@
+## License
+
+Licensed under the [MIT License](LICENSE).
 #Provided as a sample for testing, without warranty or a support commitment. Review and validate it in your environment before use.
 # Copilot Studio Consumption and Owner Report: Test Instructions
 
