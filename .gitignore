@@ -1,0 +1,8 @@
+# Consumption exports and generated reports
+*.csv
+*.xlsx
+
+# Local configuration and logs
+.env
+.env.*
+*.log
