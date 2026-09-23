@@ -5,7 +5,7 @@ Licensed under the [MIT License](LICENSE).
 # Copilot Studio Consumption and Owner Report: Test Instructions
 
 ## Purpose
-#Provided as a sample for testing, without warranty or a support commitment. Review and validate it in your environment before use.
+Provided as a sample for testing, without warranty or a support commitment. Review and validate it in your environment before use.
 `Export-CopilotStudioConsumptionOwners.ps1` enriches a Power Platform admin
 center (PPAC) agent consumption CSV with current agent owner names, email/UPNs,
 owner types (user or team), and IDs. It matches records by environment ID and
